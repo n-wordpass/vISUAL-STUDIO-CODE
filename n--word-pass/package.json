@@ -1,0 +1,21 @@
+{
+    "name": "n--word-pass",
+    "displayName": "N- WORD PASS",
+    "description": "im gei",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "N- WORD PASS",
+                "uiTheme": "vs-dark",
+                "path": "./themes/N- WORD PASS-color-theme.json"
+            }
+        ]
+    }
+}
