@@ -1,6 +1,6 @@
 # vISUAL-STUDIO-CODE
 
-<img src"n--word-pass/preview.png">
+<img src="n--word-pass/preview.png"></img>
 
 ## sETUP
 
